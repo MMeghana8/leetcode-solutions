@@ -72,3 +72,15 @@ My goal is to become confident in solving DSA problems, strengthen my programmin
 ---
 
 ⭐ This repository represents my continuous learning journey in programming and problem-solving.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MMeghana8/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MMeghana8/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+<!---LeetCode Topics End-->
